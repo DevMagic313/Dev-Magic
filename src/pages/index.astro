@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar';
+import Hero from '../components/Hero';
+import About from '../components/About';
+import Projects from '../components/Projects';
+import Skills from '../components/Skills';
+import Resume from '../components/Resume';
+import Blog from '../components/Blog';
+import Contact from '../components/Contact';
+import Footer from '../components/Footer';
+---
+
+<Layout title="Your Name - Frontend Developer">
+  <main class="bg-gradient-to-b from-deep-blue to-darker-blue text-white">
+    <Navbar client:load />
+    <Hero client:load />
+    <About client:load />
+    <Projects client:load />
+    <Skills client:load />
+    <Resume client:load />
+    <Blog client:load />
+    <Contact client:load />
+    <Footer client:load />
+  </main>
+</Layout>
