@@ -61,24 +61,24 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h4 className="text-xl font-poppins font-semibold mb-4">Newsletter</h4>
-            <p className="mb-4">Subscribe to my newsletter for updates and tips.</p>
-            <form className="flex gap-2">
-              <input
-                type="email"
-                placeholder="Enter your email"
-                className=" flex-1 px-4 py-2 rounded-lg border-2 border-neon-cyan bg-transparent focus:border-neon-magenta outline-none transition-colors"
-              />
-              <motion.button
-                type="submit"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="px-4 py-2 rounded-lg border-2 border-neon-magenta hover:bg-neon-magenta/10 transition-colors"
-              >
-                Subscribe
-              </motion.button>
-            </form>
-          </div>
+  <h4 className="text-xl font-poppins font-semibold mb-4">Newsletter</h4>
+  <p className="mb-4">Subscribe to my newsletter for updates and tips.</p>
+  <form className="flex flex-col md:flex-row gap-2">
+    <input
+      type="email"
+      placeholder="Enter your email"
+      className="w-full md:flex-1 px-4 py-2 rounded-lg border-2 border-neon-cyan bg-transparent focus:border-neon-magenta outline-none transition-colors"
+    />
+    <motion.button
+      type="submit"
+      whileHover={{ scale: 1.05 }}
+      whileTap={{ scale: 0.95 }}
+      className="w-full md:w-auto px-4 py-2 rounded-lg border-2 border-neon-magenta hover:bg-neon-magenta/10 transition-colors"
+    >
+      Subscribe
+    </motion.button>
+  </form>
+</div>
         </div>
         <div className="mt-8 pt-8 border-t border-neon-cyan/20 text-center">
           <p className="flex items-center justify-center gap-2">
