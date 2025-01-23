@@ -80,7 +80,7 @@ const Resume = () => {
               </div>
               <div className="border-l-2 border-neon-purple pl-6 space-y-6">
                 <div>
-                  <h4 className="text-xl font-poppins font-semibold">JavaScrit Developer Certification</h4>
+                  <h4 className="text-xl font-poppins font-semibold">JavaScript Developer Certification</h4>
                   <p className="text-neon-purple">Hacker Rank • 2024</p>
                 </div>
                 <div>
