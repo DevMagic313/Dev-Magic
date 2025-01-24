@@ -1,7 +1,9 @@
 import { motion } from 'framer-motion';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
-import projectimages1 from '../img/img1.jpg';
-import projectimages2 from '../img/project1.jpg';
+import projectimages1 from '../img/resturant.jpg';
+import projectimages2 from '../img/recipe finder.jpg';
+import projectimages3 from '../img/data tech.jpg';
+
 
 
 const projects = [
@@ -18,14 +20,14 @@ const projects = [
     title: 'Recipe Finder',
     description: 'An intuitive recipe search application with filtering and favoriting capabilities.',
     image: projectimages2,
-    technologies: ['React', 'Redux', 'SASS', 'Firebase'],
+    technologies: ['HTML5', 'CSS3', 'JavaScript', 'API'],
     github: 'https://github.com/DevMagic313/Desi-Kitchen-Chronicles',
     live: 'https://dasi-kitchen-chronides.netlify.app/'
   },
 {
   title: 'Data Tech Solutions',
   description: 'Empowering Businesses with Data-Driven Insights.',
-  image: projectimages1,
+  image: projectimages3,
   technologies: ['React. JS', 'HTML', 'CSS', 'Typescript'],
   github: 'https://github.com/DevMagic313/Data-Tech',
   live: 'https://datatechdevmagic.netlify.app/',
