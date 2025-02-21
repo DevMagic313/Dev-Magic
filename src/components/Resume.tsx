@@ -80,11 +80,11 @@ const Resume = () => {
               </div>
               <div className="border-l-2 border-neon-purple pl-6 space-y-6">
                 <div>
-                  <h4 className="text-xl font-poppins font-semibold">JavaScript Developer Certification</h4>
-                  <p className="text-neon-purple">Hacker Rank • 2024</p>
+                  <h4 className="text-xl font-poppins font-semibold">JavaScript(Intermediate) Certificate</h4>
+                  <p className="text-neon-purple">Hacker Rank • 2025</p>
                 </div>
                 <div>
-                  <h4 className="text-xl font-poppins font-semibold">Python Developer Certification</h4>
+                  <h4 className="text-xl font-poppins font-semibold">Python(Basic) Certificate</h4>
                   <p className="text-neon-purple">Hacker Rank • 2024</p>
                 </div>
               </div>
