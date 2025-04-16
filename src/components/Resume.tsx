@@ -80,12 +80,16 @@ const Resume = () => {
               </div>
               <div className="border-l-2 border-neon-purple pl-6 space-y-6">
                 <div>
-                  <h4 className="text-xl font-poppins font-semibold">JavaScript(Intermediate) Certificate</h4>
+                  <h4 className="text-xl font-poppins font-semibold">Certified JavaScirpt Developer(Intermedite)</h4>
                   <p className="text-neon-purple">Hacker Rank • 2025</p>
                 </div>
                 <div>
-                  <h4 className="text-xl font-poppins font-semibold">Python(Basic) Certificate</h4>
-                  <p className="text-neon-purple">Hacker Rank • 2024</p>
+                  <h4 className="text-xl font-poppins font-semibold">Certified Frontend Developer(React)</h4>
+                  <p className="text-neon-purple">Hacker Rank • 2025</p>
+                </div>
+                <div>
+                  <h4 className="text-xl font-poppins font-semibold">Certified Problem Solver(Intermedite)</h4>
+                  <p className="text-neon-purple">Hacker Rank • 2025</p>
                 </div>
               </div>
             </motion.div>
