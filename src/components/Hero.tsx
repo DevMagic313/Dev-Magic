@@ -21,13 +21,13 @@ const Hero = () => {
     en: {
       greeting: "Hi, I'm",
       roles: [
-        'Frontend Developer',
+        'Frontend Developer(React)',
         2000,
-        'Student',
+        'JavaScript Developer',
         2000,
         'Web Developer',
         2000,
-        'Web App',
+        'Web App Developer',
         2000,
       ],
       cta: {
