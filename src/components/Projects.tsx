@@ -17,15 +17,15 @@ const projects = [
   // tags: ['web development', 'restaurant website', 'HTML5', 'CSS3', 'JavaScript']
 },
   {
-    title: 'Recipe Finder',
-    description: 'An intuitive recipe search application with filtering and favoriting capabilities.',
+    title: 'CallXTrade',
+    description: 'Call Center Website using React',
     image: projectimages2,
-    technologies: ['HTML5', 'CSS3', 'JavaScript', 'API'],
-    github: 'https://github.com/DevMagic313/Desi-Kitchen-Chronicles',
-    live: 'https://dasi-kitchen-chronides.netlify.app/'
+    technologies: ['TypeScript', 'CSS3', 'HTML', 'Others'],
+    github: 'https://github.com/DevMagic313/CallXTrade',
+    live: 'https://callxtrade.netlify.app/'
   },
 {
-  title: 'Data Tech Solutions',
+  title: 'Skill ShowCase Platform',
   description: 'A platform for developers, designers, and creators to connect with opportunities.',
   image: projectimages3,
   technologies: ['React. JS', 'HTML', 'CSS', 'Typescript'],
