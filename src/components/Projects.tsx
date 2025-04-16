@@ -26,11 +26,11 @@ const projects = [
   },
 {
   title: 'Data Tech Solutions',
-  description: 'Empowering Businesses with Data-Driven Insights.',
+  description: 'A platform for developers, designers, and creators to connect with opportunities.',
   image: projectimages3,
   technologies: ['React. JS', 'HTML', 'CSS', 'Typescript'],
-  github: 'https://github.com/DevMagic313/Data-Tech',
-  live: 'https://datatechdevmagic.netlify.app/',
+  github: 'https://github.com/DevMagic313/Skill-ShowCase-Platform',
+  live: 'https://skillshowcaseplatform.netlify.app/',
   // tags: ['data analysis', 'financial insights', 'Next.js', 'MongoDB', 'Stripe', 'Framer Motion']
 }
 ];
