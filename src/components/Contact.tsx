@@ -81,7 +81,7 @@ const Contact = () => {
                   <FaGithub className="text-xl" />
                 </motion.a>
                 <motion.a
-                  href="https://www.tiktok.com/@devmagic313"
+                  href="https://www.tiktok.com/@codebygirl"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1 }}
@@ -90,14 +90,14 @@ const Contact = () => {
                 >
                   <FaTiktok className="text-xl" />
                 </motion.a>
-                <motion.a
+{/*                 <motion.a
                   href="https://www.instagram.com/devmagic313"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
                   className="p-3 rounded-full border-2 border-neon-purple hover:bg-neon-purple/10 transition-colors"
-                >
+                > */}
                   <FaInstagram className="text-xl" />
                 </motion.a>
               </div>
