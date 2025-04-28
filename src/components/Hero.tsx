@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
 import { gsap } from 'gsap';
 import { useLanguageStore } from '../store/languageStore';
-// import profileImage from '../img/Profile.jpg'; // Import the image
+import profileImage from '../img/Profile.jpg'; // Import the image
 
 const Hero = () => {
   const { currentLanguage } = useLanguageStore();
@@ -109,7 +109,7 @@ const Hero = () => {
           >
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-neon-cyan animate-glow">
              <img
-  src={https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39f22b80e3f4161c5ac57d76b7cafeff~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=1277aa26&x-expires=1746043200&x-signature=FpCatlzrTm28m65V5s%2FLTWlXtUU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my} 
+  src={profileImage} 
   alt="DevMagic"
   className="w-full h-full object-cover"
 />
