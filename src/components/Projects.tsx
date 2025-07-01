@@ -17,20 +17,20 @@ const projects = [
   // tags: ['web development', 'restaurant website', 'HTML5', 'CSS3', 'JavaScript']
 },
   {
-    title: 'CallXTrade',
-    description: 'Call Center Website using React',
+    title: 'Qalb Giving Platform',
+    description: 'A Sharia-compliant donation platform.',
     image: projectimages2,
     technologies: ['TypeScript', 'CSS3', 'HTML', 'Others'],
-    github: 'https://github.com/DevMagic313/CallXTrade',
-    live: 'https://callxtrade.netlify.app/'
+    github: 'https://github.com/DevMagic313/qalb-giving-platform',
+    live: 'https://qalbandzakat.netlify.app/'
   },
 {
-  title: 'Skill ShowCase Platform',
-  description: 'A platform for developers, designers, and creators to connect with opportunities.',
+  title: 'DollarKeeper',
+  description: 'Learn effective trading techniques explained in simple English.',
   image: projectimages3,
   technologies: ['React. JS', 'HTML', 'CSS', 'Typescript'],
-  github: 'https://github.com/DevMagic313/Skill-ShowCase-Platform',
-  live: 'https://skillshowcaseplatform.netlify.app/',
+  github: 'https://github.com/DevMagic313/dollar-keeper-frontend-ui',
+  live: 'https://dollarkeeper.netlify.app/',
   // tags: ['data analysis', 'financial insights', 'Next.js', 'MongoDB', 'Stripe', 'Framer Motion']
 }
 ];
