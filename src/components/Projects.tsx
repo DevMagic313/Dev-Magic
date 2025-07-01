@@ -14,7 +14,6 @@ const projects = [
   technologies: ['HTML5', 'CSS3', 'JavaScript'],
   github: 'https://github.com/DevMagic313/Resturant-website',
   live: 'https://devmagic-the-cozy-corner.netlify.app/',
-  // tags: ['web development', 'restaurant website', 'HTML5', 'CSS3', 'JavaScript']
 },
   {
     title: 'Qalb Giving Platform',
@@ -31,7 +30,6 @@ const projects = [
   technologies: ['React. JS', 'HTML', 'CSS', 'Typescript'],
   github: 'https://github.com/DevMagic313/dollar-keeper-frontend-ui',
   live: 'https://dollarkeeper.netlify.app/',
-  // tags: ['data analysis', 'financial insights', 'Next.js', 'MongoDB', 'Stripe', 'Framer Motion']
 }
 ];
 
