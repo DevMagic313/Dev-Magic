@@ -8,7 +8,7 @@ import projectimages3 from '../img/data tech.jpg';
 
 const projects = [
  {
-  title: 'Restaurant Website',
+  title:'Restaurant Website',
   description: 'A futuristic restaurant website built with HTML5, CSS3, and JavaScript.',
   image: projectimages1,
   technologies: ['HTML5', 'CSS3', 'JavaScript'],
